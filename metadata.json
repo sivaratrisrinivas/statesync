@@ -1,0 +1,5 @@
+{
+  "name": "StateSync AI",
+  "description": "A web app that helps small US business owners register for state payroll tax accounts when they hire in a new state.",
+  "requestFramePermissions": []
+}
